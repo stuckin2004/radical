@@ -16,6 +16,6 @@ extern "C" {
 		} \
 	} while(0)
 
-#ifndef __cplusplus
+#ifdef __cplusplus
 }
 #endif
