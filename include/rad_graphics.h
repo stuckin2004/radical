@@ -3,7 +3,6 @@
 #ifndef RAD_GRAPHICS_H
 #define RAD_GRAPHICS_H
 
-#include <cstdint>
 #ifdef __cplusplus
 extern "C" {
 #endif
