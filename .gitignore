@@ -1,0 +1,17 @@
+.vs/
+[Bb]uild
+[Oo]ut
+[Bb]in
+[Dd]ist
+
+*.[sS]
+*.[aA]
+*.so
+*.dll
+*.exp
+*.exe
+*.bin
+*.ilk
+*.map
+*.pdb
+*.out
